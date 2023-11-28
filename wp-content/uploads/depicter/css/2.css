@@ -1,0 +1,72 @@
+
+.depicter-revert .depicter-2-element-22{
+	border-width:2px;
+	border-style:solid;
+	border-color:#000;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-2-element-22 .depicter-arrow-icon{
+	fill:#000000;
+}
+.depicter-revert .depicter-2-element-23{
+	border-width:2px;
+	border-style:solid;
+	border-color:#000;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-2-element-23 .depicter-arrow-icon{
+	fill:#000000;
+}
+.depicter-revert .depicter-2-element-10{
+	font-size:20px;
+	text-align:justify;
+	color:#000000;
+	font-family:"Open Sans";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-2-section-1 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-2-element-16{
+	font-size:20px;
+	color:#000000;
+	font-family:"Open Sans";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-2-section-14 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-2-element-20{
+	text-shadow:2px 2px 5px rgba( 0, 0, 0, 0.5 );
+	font-size:34px;
+	text-align:center;
+	color:#614877;
+	font-family:"Open Sans";
+	font-weight:700;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-2-section-18 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-revert .depicter-2-element-20{
+	text-shadow:2px 2px 5px rgba( 0, 0, 0, 0.5 );
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-revert .depicter-2-element-20{
+	text-shadow:2px 2px 5px rgba( 0, 0, 0, 0.5 );
+}
+
+}

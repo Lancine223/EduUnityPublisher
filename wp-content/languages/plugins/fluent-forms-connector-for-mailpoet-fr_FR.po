@@ -1,0 +1,32 @@
+# Translation of Plugins - Fluent Forms Connector for MailPoet - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Fluent Forms Connector for MailPoet - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-07-06 09:54:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Fluent Forms Connector for MailPoet - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "https://wpmanageninja.com/wp-fluent-form/"
+msgstr "https://wpmanageninja.com/wp-fluent-form/"
+
+#. Author of the plugin
+msgid "WPManageNinja LLC"
+msgstr "WPManageNinja LLC"
+
+#. Description of the plugin
+msgid "Connect Fluent Forms with MailPoet."
+msgstr "Connecter Fluent Forms avec MailPoet."
+
+#. Plugin URI of the plugin
+msgid "https://github.com/fluentform/fluent-forms-connector-for-mailpoet"
+msgstr "https://github.com/fluentform/fluent-forms-connector-for-mailpoet"
+
+#. Plugin Name of the plugin
+msgid "Fluent Forms Connector for MailPoet"
+msgstr "Fluent Forms Connector for MailPoet"
